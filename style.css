@@ -1,0 +1,49 @@
+body {
+	font-family: 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    top: 15%;
+	background: linear-gradient(45deg, red , yellow) no-repeat fixed; /* Standard syntax */
+}
+
+h1 {
+    font: 600 3.5em 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .5em;
+    width: 100%;
+}
+
+h3 {
+	font: 900 1em 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+
+}
+
+#number{
+    min-width: 150px;
+    height: 20px;
+    background-color: rgb(235, 235, 235);
+    text-align: center;
+    margin: 10px;
+}
+
+#gradient div {
+    margin-top: 1rem;
+}
+
+#randomColorButton {
+    margin-top: 2rem;
+    background: linear-gradient(rgb(163, 163, 163) , rgb(255, 255, 200));
+    width: 150px;
+    height: 50px;
+    border-radius: 12px;
+    border: 0px;
+    font-size: 1rem;
+}
