@@ -1,0 +1,19 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kropi-H/Background-Generator.git"
+  },
+  "author": "Kropacek.h@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kropi-H/Background-Generator/issues"
+  },
+  "homepage": "https://kropi-h.github.io/Background-Generator/"
+}
