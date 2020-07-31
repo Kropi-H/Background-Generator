@@ -18,6 +18,6 @@
   },
   "homepage": "https://kropi-h.github.io/Background-Generator/",
   "dependencies": {
-    "lodash": "^4.17.19" 
+    "lodash": "^4.17.19"
   }
 }
